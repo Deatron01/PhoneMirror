@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="./.github/assets/banner.svg" alt="PhoneMirror — One-click Android screen mirroring for Windows." width="100%" />
-</p>
+<h1 align="center">PhoneMirror</h1>
 
 <p align="center">
+  One-click Android screen mirroring for Windows.<br />
   <samp>PYTHON · CUSTOMTKINTER · SCRCPY · PYINSTALLER</samp>
 </p>
 
@@ -64,5 +63,7 @@ MIT. See [`LICENSE`](./LICENSE). scrcpy is a separate project under its own lice
 <br />
 
 <p align="center">
+  <a href="https://github.com/Deatron01"><img src="https://raw.githubusercontent.com/Deatron01/Deatron01/main/assets/icon.png" width="56" alt="Dea" /></a><br />
+  <sub><i>Little chaos in a quiet mind.</i></sub><br />
   <sub><samp>MORE WORK AT <a href="https://github.com/Deatron01">GITHUB.COM/DEATRON01</a></samp></sub>
 </p>
